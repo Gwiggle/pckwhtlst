@@ -1,0 +1,2 @@
+g[^.]+-vod-us-cmaf-prd-[^.]+.cdn.peacocktv.com
+mt.ssai.peacocktv.com
